@@ -1,0 +1,6 @@
+# This is dacon competition in south korea.
+## task description
+
+- Hansol Deco aims to solidify its leading position in the interior finishing materials sector within residential complexes through continuous innovation and technological development. In addition, Hansol Deco is integrating artificial intelligence (AI) into this field to drive innovation. The utilization of AI aims to refine and streamline the quality control and defect detection processes for core construction materials such as sheets, flooring, wall coverings, and wallpaper, thereby enhancing the management and operational quality of these materials. This technological integration will contribute to increasing customer satisfaction and overall improvement in the quality of products and services.
+
+- This competition aims to develop an AI model that provides accurate and prompt responses to various questions and scenarios related to wallpapering issues. It is crucial for handling complex situations that may arise in real-world settings and for building a system that can quickly and accurately respond to customer inquiries.
